@@ -1,4 +1,4 @@
-i### Hi there 👋
+### Hi there 👋
 
 <!--
 **AuroraEchos/AuroraEchos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
