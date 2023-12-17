@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: lwh20021104@gmile.com
 - 😄 Pronouns:He/His/Him
 
-![Wenhao Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenhao_Liu&show_icons=true&theme=tokyonight)
+![Wenhao Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=WenhaoLiu&show_icons=true&theme=tokyonight)
