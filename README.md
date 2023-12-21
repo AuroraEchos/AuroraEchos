@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 <!--
 - <img align="left" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AuroraEchos&hide=jupyter%20notebook&show_icons=true&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
 -->
 <img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="250">
 
