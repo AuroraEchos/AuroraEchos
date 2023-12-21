@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: lwh20021104@gmile.com
 - 😄 Pronouns:He/His/Him
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<img align="left" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
