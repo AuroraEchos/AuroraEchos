@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 -->
 <img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="250">
 
-<img src="https://imgur.com/rilHVxA.png"/>
+
