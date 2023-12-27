@@ -23,11 +23,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: lwh20021104@gmile.com
 - 😄 Pronouns:He/His/Him
 
-<img align="left" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
 <!--
+<img align="left" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 - <img align="left" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AuroraEchos&hide=jupyter%20notebook&show_icons=true&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
--->
 <img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="250">
+-->
+
 
 
