@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Shanghai University
 - 🌱 I’m currently learning Sound event detection and location
-- 📫 How to reach me: lwh20021104@gmile.com
+- 📫 How to reach me: lwh20021104@gmail.com
 - 😄 Pronouns:He/His/Him
 
 
