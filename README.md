@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Sound event detection and location
 - 📫 How to reach me: lwh20021104@gmail.com
 - 😄 Pronouns:He/His/Him
-- ⚡ [About me](profile-4g8srkbc352f4bba-1312101180.tcloudbaseapp.com)
+- ⚡ [About me](https://profile-4g8srkbc352f4bba-1312101180.tcloudbaseapp.com)
 
 
 <!--
