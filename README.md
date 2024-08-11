@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently studying on Shanghai University
 - 📫 How to reach me: lwh20021104@gmail.com
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AuroraEchos&layout=compact)](https://github.com/AuroraEchos/github-readme-stats)
+
 
 <!--
 <img align="left" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
