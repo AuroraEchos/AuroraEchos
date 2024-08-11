@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently studying on Shanghai University
 - 📫 How to reach me: lwh20021104@gmail.com
-- ⚡ [About me]
 
 
 <!--
