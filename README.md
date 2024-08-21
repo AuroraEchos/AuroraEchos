@@ -1,4 +1,6 @@
+<!--
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
+-->
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> Hi there 👋 
