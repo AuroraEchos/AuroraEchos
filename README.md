@@ -2,6 +2,5 @@
   
 🔭 **What I'm Currently Studying On**:  
 - 🧠 Deep Learning
-- 💻 C++ Programming
 
 
